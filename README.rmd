@@ -1,14 +1,14 @@
-**Objectives of the Project
-**
+**Objectives of the Project**
+
     A tidy data set
     A link to a GitHub repository with all the needed files
     A code book which describes the data, vavriables, and any transformations done on the data.
     The R Script which cleans the data
 
-**Cleaning Data Process
-**
-**The cleaning of the data is done through the following process.
-**
+**Cleaning Data Process**
+
+**The cleaning of the data is done through the following process.**
+
     Import a couple of libraries
     Download the data
     Get the labels and features of the data
